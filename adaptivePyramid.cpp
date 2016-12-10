@@ -1,5 +1,5 @@
 //
-//  Assignment2.cpp
+//  Assignment3.cpp
 //  OpenCV
 //
 //  Created by Ahmed Mohamed Fareed on 11/9/15.
