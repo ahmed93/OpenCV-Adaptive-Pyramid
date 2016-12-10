@@ -1,3 +1,3 @@
-# OpenCV-Gaussian-Pyramid
+# OpenCV-Adaptive-Pyramid
 
-rough implementation of the gaussian pyramid in C++
+rough implementation of the Adaptive pyramid in C++
